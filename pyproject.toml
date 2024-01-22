@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "deps-pubsub"
+name = "message-flow"
 version = "1.3.0"
-description = "DEPS adapters for pub/sub messaging architecture"
+description = "Adapters for pub/sub messaging architecture"
 authors = []
 
 [tool.poetry.dependencies]
